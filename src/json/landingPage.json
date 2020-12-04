@@ -1,0 +1,34 @@
+{
+  "projects" : [
+    {
+      "name" : "Website Tracking Kapal ",
+      "description" : " Laravel Project with Vue.JS and Leafleat.js",
+      "project_url" : "http://missi-track.com",
+      "img_url" : "https://i.ibb.co/QfnSh2z/Website-Monitoring-Kapal.png"
+    },
+    {
+      "name" : "Website Ayobeasiswa ",
+      "description" : " Laravel Project - Bootstrap - with multilple login",
+      "project_url" : "http://ab.elhamidy.com",
+      "img_url" : "https://i.ibb.co/p239yYP/Website-Ayobeasiswa.png"
+    },
+    {
+      "name" : "Laundry System",
+      "description" : " Laravel Project - Bootstrap",
+      "project_url" : "http://laundry.elhamidy.com",
+      "img_url" : "https://i.ibb.co/gRmqSqX/Website-Manajemen-Laundry.png"
+    },
+    {
+      "name" : "Booking System",
+      "description" : " Laravel Project - Bootstrap ",
+      "project_url" : "http://futsal.elhamidy.com",
+      "img_url" : "https://i.ibb.co/P66tbYs/Website-Booking-Lapangan-Futsal.png"
+    },
+    {
+      "name" : "E-commerce",
+      "description" : " Laravel Project - Bootstrap",
+      "project_url" : "http://bu.elhamidy.com",
+      "img_url" : "https://i.ibb.co/QdNtxrx/Website-E-Commerce-Bina-Usaha.png"
+    }
+  ]
+}
