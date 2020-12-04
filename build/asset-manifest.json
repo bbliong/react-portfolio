@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.40f9dbf8.chunk.css",
-    "main.js": "/static/js/main.68f8e341.chunk.js",
-    "main.js.map": "/static/js/main.68f8e341.chunk.js.map",
+    "main.js": "/static/js/main.a527f3ec.chunk.js",
+    "main.js.map": "/static/js/main.a527f3ec.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.3ac6621c.js",
     "runtime-main.js.map": "/static/js/runtime-main.3ac6621c.js.map",
     "static/js/2.214b394f.chunk.js": "/static/js/2.214b394f.chunk.js",
@@ -13,7 +13,7 @@
     "static/css/main.40f9dbf8.chunk.css.map": "/static/css/main.40f9dbf8.chunk.css.map",
     "static/js/2.214b394f.chunk.js.LICENSE.txt": "/static/js/2.214b394f.chunk.js.LICENSE.txt",
     "static/media/Greeting.700bcf43.svg": "/static/media/Greeting.700bcf43.svg",
-    "static/media/Me.c4a623f3.png": "/static/media/Me.c4a623f3.png",
+    "static/media/Me.1d4dbab3.png": "/static/media/Me.1d4dbab3.png",
     "static/media/Partikel-grid-right.69048acf.svg": "/static/media/Partikel-grid-right.69048acf.svg",
     "static/media/ai.8e3912a0.png": "/static/media/ai.8e3912a0.png",
     "static/media/figma.3c862b79.png": "/static/media/figma.3c862b79.png",
@@ -30,6 +30,6 @@
     "static/js/runtime-main.3ac6621c.js",
     "static/js/2.214b394f.chunk.js",
     "static/css/main.40f9dbf8.chunk.css",
-    "static/js/main.68f8e341.chunk.js"
+    "static/js/main.a527f3ec.chunk.js"
   ]
 }
