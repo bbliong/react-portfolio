@@ -23,7 +23,7 @@ const About = () => {
                                 <span className={"underline mb-4"}></span>
                                 <p className={"w-75"}>Hello, I am Aria Samudera Elhamidy, i'm Software Engineer based in jakarta
                                     I HI using PHP, Golang and Python for <span className={"text-orange font-weight-bold"}>Tabula APPS</span> and improvement CMS for customer service, besides that i take part time to maintain the website that i used to work on and i also have interest in design UI and frontend tech like vue js and react js </p>
-                                <button className={"btn btn-rounded btn-cv text-align-center"}>Hire Me</button>
+                                <a  href="mailto:ariaelhamidy@gmail.com" className={"btn btn-rounded btn-cv text-align-center"}>Hire Me</a>
                             </div>
                         </div>
                     </Fade>

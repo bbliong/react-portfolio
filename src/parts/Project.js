@@ -26,9 +26,9 @@ const Project = (props) => {
                             {
                                 props.data.map((item, index) => {
                                     return (
-                                        <Fade>
+                                        <Fade key={index}>
                                             <div className="col-lg-5 col-md-5 col-sm-12 col-xs-12 container-card ">
-                                                <a href={item.project_url} key={index} target={"_blank"}>
+                                                <a href={item.project_url}  target={"_blank"}>
                                                     <div className="ver_mas text-center">
                                                         <span className="lnr lnr-eye"></span>
                                                     </div>

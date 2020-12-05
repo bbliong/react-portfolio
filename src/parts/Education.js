@@ -11,7 +11,7 @@ const Education = () => {
                     <Fade left>
                         <div className={"col-md-5 col-xs-12 col-sm-12 pl-5 "}>
                             <div className={"title pl-4 pr-4 text-left mb-5 "}>
-                                <h2 className={"text-orange"} style={{lineHeight:"5px"}}>Education</h2>
+                                <h2 className={"text-orange"} style={{lineHeight:"5px"}}>Work</h2>
                                 <h1 className={"font-weight-bold "} style={{lineHeight:"50px"}}>My Journey</h1>
                                 <span className={"underline mb-4"} style={{position: "absolute"}}></span>
                             </div>
@@ -29,7 +29,7 @@ const Education = () => {
                                         <div className="main-timeline4">
                                             <Fade right>
                                                 <div className="timeline">
-                                                    <a href="#" className="timeline-content">
+                                                    <a href="https://vm.lepkom.gunadarma.ac.id/" target={"_blank"} className="timeline-content text-decoration-none">
                                                         <div className="inner-content ml-2">
                                                             <h4 className="title text-left text-orange">2016-2019</h4>
                                                             <h3 className="font-weight-bold text-indigo">Gunadarma
@@ -44,7 +44,7 @@ const Education = () => {
                                             </Fade>
                                             <Fade left>
                                                 <div className="timeline">
-                                                    <a href="#" className="timeline-content">
+                                                    <a href="https://simpus.tangerangselatankota.go.id/"  target={"_blank"} className="timeline-content text-decoration-none">
                                                         <div className="inner-content text-right mr-2">
                                                             <h4 className="title text-right text-orange">Mar 2019 - Jun
                                                                 2019</h4>
@@ -52,7 +52,7 @@ const Education = () => {
                                                                 Time)</h3>
                                                             <p className="description">
                                                                 Maintaning and Create new modules in Information System of
-                                                                Puskesmas (Simpus) Bogor City using Codeigniter with the concept
+                                                                Puskesmas (Simpus) Tangsel & Bogor City using Codeigniter with the concept
                                                                 of HMVC and Mysql.
                                                             </p>
                                                         </div>
@@ -61,7 +61,7 @@ const Education = () => {
                                             </Fade>
                                             <Fade right>
                                                 <div className="timeline">
-                                                    <a href="#" className="timeline-content">
+                                                    <a href="https://missi-track.com"  target={"_blank"} className="timeline-content text-decoration-none" >
                                                         <div className="inner-content ml-2">
                                                             <h4 className="title text-left text-orange">Dec 2018 - Now</h4>
                                                             <h3 className="font-weight-bold text-indigo">MIssi - Web Developer
@@ -77,13 +77,13 @@ const Education = () => {
                                             </Fade>
                                             <Fade left>
                                                 <div className="timeline">
-                                                    <a href="#" className="timeline-content mr-2">
+                                                    <a href="https://tabula.co.id"  target={"_blank"} className="timeline-content mr-2 text-decoration-none">
                                                         <div className="inner-content text-right">
                                                             <h4 className="title text-right text-orange">Sep 2019 - Now</h4>
                                                             <h3 className="font-weight-bold text-indigo">Tabula - Software
-                                                                Engineer</h3> <p className="description">Maintaning and Create
-                                                            new modules in Information System of Puskesmas (Simpus) Bogor City
-                                                            using Codeigniter with the concept of HMVC and Mysql.
+                                                                Engineer</h3> <p className="description">Develop API with PHP, Golang & Python for supporting business process
+                                                            - Maintaning and improvement CMS for supporting customer service
+                                                            - Implement queue process to handle async task for notification
                                                         </p>
                                                         </div>
                                                     </a>

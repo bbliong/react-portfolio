@@ -69,7 +69,7 @@ const Specializing = () => {
                                 </div>
                                 <div className={"col-md-6  d-flex justify-content-start align-items-start mt-3"}>
                                     <div className={"skill"}>
-                                        <h3 className={"font-weight-bold"}>Software What I Used</h3>
+                                        <h3 className={"font-weight-bold"}>Design Apps What I Used</h3>
                                         <div className={"skill-set d-flex justify-content-between"}>
                                             <img src={PSIcon} alt=""/>
                                             <img src={XDIcon} alt=""/>

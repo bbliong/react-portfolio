@@ -187,6 +187,16 @@ h6 {
   height: 100vh;
 }
 
+.section-intro {
+  position: relative;
+  z-index:1;
+}
+
+.section-about {
+  position: relative;
+  z-index:2;
+}
+
 .specializing {
   padding: 20px;
 

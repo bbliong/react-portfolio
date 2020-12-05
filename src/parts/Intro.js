@@ -9,7 +9,7 @@ import Fade from "react-reveal/Fade";
 
 const Intro = (props) => {
     return (
-        <section id={"intro"}>
+        <section id={"intro"} className={"section-intro"}>
             <span>
                 <img src={PartikelLeft} className={"partikel-left"} alt={"Partikel Left"}/>
             </span>
@@ -41,7 +41,7 @@ const Intro = (props) => {
                             <div className={"title"}>
                                 <h1 className={"text-indigo h2"}>Aria Samudera Elhamidy</h1>
                                 <h1 className={"text-orange h1 mt-0 font-weight-bold"}>Software Egnineer</h1>
-                                <button className={"btn btn-rounded btn-hire"}>Hire Me</button>
+                                <a href="mailto:ariaelhamidy@gmail.com" className={"btn btn-rounded btn-hire"}>Hire Me</a>
                             </div>
                         </div>
                     </Fade>
